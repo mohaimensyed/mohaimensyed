@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-SITE.com"><img src="https://img.shields.io/badge/Website-FF6A13?style=for-the-badge&logoColor=111111" alt="Website"></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F6F1E9" alt="LinkedIn"></a>
-  <a href="https://checkie.app"><img src="https://img.shields.io/badge/Checkie-F6F1E9?style=for-the-badge&labelColor=111111&color=F6F1E9" alt="Checkie"></a>
+  <a href="https://mohaimensyed.com"><img src="https://img.shields.io/badge/Website-FF6A13?style=for-the-badge&logoColor=111111" alt="Website"></a>
+  <a href="https://linkedin.com/in/mohaimensyed"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F6F1E9" alt="LinkedIn"></a>
+  <a href="https://checksintel.com"><img src="https://img.shields.io/badge/Checkie-F6F1E9?style=for-the-badge&labelColor=111111&color=F6F1E9" alt="Checks Intel"></a>
 </p>
 
 <table>
